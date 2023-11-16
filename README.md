@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 
-# Code for the paper ``An inference cost attack against large language models''
+# Code for the paper “An inference cost attack against large language models“
 
 ![alt text](assets/overview_v2.jpg)
 
